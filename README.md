@@ -5,7 +5,8 @@
 <h5>17 Anos </h5>
 <h5>Natural de Forquilhinha / Santa Catarina</h5>
 
-<h3>Me contate pelas redes socias abaixo<h3>
+
+<h3>Contatos abaixo<h3>
   
 <div>
   <a href="https://instagram.com/ruanfiorimarcelino_?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
