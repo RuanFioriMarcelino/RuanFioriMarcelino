@@ -2,8 +2,7 @@
 
 <body>
 <h5>Formado em Técnico em Informática instituição SATC</h5>
-<h5>Cursando Engenharia de Software</h5>
-<h5>Cursando na instituição SATC</h5>
+<h5>Cursando Engenharia de Software na UNISATC</h5>
 <h5>19 Anos </h5>
 <h5>Natural de Forquilhinha / Santa Catarina</h5>
 
