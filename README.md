@@ -16,8 +16,6 @@
 </div>
 <p>___________________________________________________________________</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuanFioriMarcelino&show_icons=true&theme=radical)
-
 <p>__________________________________________________________________</p>
 
 <h3>Estudando as seguintes linguagens</h3>
